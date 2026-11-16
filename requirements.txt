@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+scipy
+pandas
+numpy
+openpyxl
+geopandas
+pyogrio
+shapely
+fonttools
